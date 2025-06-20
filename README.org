@@ -2,9 +2,8 @@
 
 Companion code for the book "The Common Lisp Condition System"
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/phoe/tclcs-code.git   |
-| commit  | 357fa06  |
-| systems | tclcs-code |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/phoe/tclcs-code.git |
+| commit  | 6de4b73                                    |
+| systems | tclcs-code                                 |
+|---------+--------------------------------------------|
